@@ -4,7 +4,7 @@ email: dev@benri.co
 description: > # this means to ignore newlines until "baseurl:"
   Location maison Pessac Noes.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://kompuser.github.io" # the base hostname & protocol for your site
+url: "http://kompuser.github.io/noes" # the base hostname & protocol for your site
 locale: fr_FR
 twitter_username: ricaudbenoit
 github_username:  kompuser

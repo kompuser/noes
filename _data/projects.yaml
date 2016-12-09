@@ -1,0 +1,30 @@
+- title: United Kingdom
+  url: https://undiscoveredattractions.github.io/tags#UK
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/undiscoveredattractions.github.io/master/images/UK.jpg
+  completed: true
+
+
+- title: Belgium
+  url: https://undiscoveredattractions.github.io/tags#Belgium
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/undiscoveredattractions.github.io/master/images/belgium.jpg
+  completed: true
+
+- title: Netherlands
+  url: https://undiscoveredattractions.github.io/tags#Netherlands
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/undiscoveredattractions.github.io/master/images/netherlands.jpg
+  completed: true
+
+- title: Italy
+  url: https://undiscoveredattractions.com/tags#Italy
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/undiscoveredattractions.github.io/master/images/italy.jpg
+  completed: true
+  
+- title: Germany
+  url: https://undiscoveredattractions.github.io/tags#Germany
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/undiscoveredattractions.github.io/master/images/germany.jpg
+  completed: true
+  
+- title: Switzerland
+  url: https://undiscoveredattractions.github.io/tags#Switzerland
+  image: https://raw.githubusercontent.com/UndiscoveredAttractions/undiscoveredattractions.github.io/master/images/switzerland.jpg
+  completed: true
